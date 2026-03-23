@@ -47,8 +47,8 @@ export const siteConfig = {
 
   // ── Boatwork integration ──────────────────────────────────
   boatwork: {
-    profileSlug: 'template',
-    profileId: '', // UUID — set during provisioning, permanent link to profile
+    profileSlug: 'pearson-marine-fl',
+    profileId: 'db86a295-fd3c-45c2-9e20-578b5a01eea5', // UUID — set during provisioning, permanent link to profile
     profileUrl: 'https://boatwork.co/pro/template/',
     logoUrl: '/boatwork-logo.svg',
     useLiveReviews: false,
