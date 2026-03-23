@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-03-23T15:26:21.870Z",
+  "specialtiesKey": "Boat Mechanics & Engine Repair,Yacht Management",
+  "servicesKey": "",
+  "contentVersion": "6",
+  "content": {
+    "tagline": "Premier Yacht Care, Built on the Water",
+    "about": "Pearson Marine is a premier marine services company proudly serving South Florida and the greater Broward County marine community, headquartered in Plantation, FL. Founded by Jerry Pearson — a lifelong boater and licensed captain with a 200-ton rating — the company was built on a foundation of genuine passion for the water, deep technical expertise, and an unwavering commitment to excellence in every aspect of yacht care and marine services.\n\nAt Pearson Marine, we specialize in comprehensive yacht management and professional boat mechanics and engine repair. Whether you need a dedicated team to oversee every detail of your vessel's upkeep or a skilled marine mechanic to diagnose and resolve engine issues, we bring the same hands-on approach and technical precision to every job. Our yacht management services cover routine maintenance scheduling, systems inspections, crew coordination, and everything in between — so your vessel is always ready when you are. Our engine repair and marine mechanical services address everything from routine tune-ups to complex inboard and outboard engine diagnostics and rebuilds.\n\nWe serve boat owners and yacht owners throughout South Florida, including communities across Broward County, Miami-Dade County, and Palm Beach County — and we operate within a 40-mile radius of Plantation, FL. We understand that your vessel represents a significant investment, and we treat every boat we touch with the same care we'd give our own. Whether you're docked in Fort Lauderdale, keeping your boat in Weston, or cruising the Intracoastal, Pearson Marine is the team you can count on.",
+    "seoTitle": "Pearson Marine | Yacht Management & Boat Engine Repair Plantation, FL",
+    "seoDescription": "Pearson Marine offers yacht management & boat engine repair in Plantation, FL & Broward County. Call us for expert South Florida marine services.",
+    "seoKeywords": [
+      "yacht management Plantation FL",
+      "boat engine repair Broward County",
+      "marine mechanic Plantation FL",
+      "yacht management South Florida",
+      "boat mechanics Fort Lauderdale",
+      "marine services Broward County",
+      "inboard outboard engine repair South Florida",
+      "licensed captain yacht management Florida"
+    ],
+    "serviceDescriptions": {
+      "Yacht Management": "Pearson Marine provides full-service yacht management, handling scheduled maintenance, systems inspections, vendor coordination, and vessel readiness so owners can focus on enjoying time on the water. With a licensed captain at the helm of every management program, each vessel receives consistent, professional oversight tailored to its specific make, size, and usage. From routine bottom paint to annual haul-outs, every detail of your yacht's care is tracked and managed with precision.",
+      "Boat Mechanics & Engine Repair": "Pearson Marine's boat mechanics specialize in diagnosing and repairing inboard and outboard engines, stern drives, and marine mechanical systems across a wide range of vessel types. Whether it's a routine service, a failed fuel system, overheating issues, or a full engine rebuild, the team brings hands-on technical expertise to get vessels running reliably. Every repair is performed with quality parts and a thorough post-repair inspection to ensure the engine performs safely before returning to the water."
+    },
+    "serviceAreaDescription": "Pearson Marine is based in Plantation, FL and provides mobile marine services throughout South Florida within a 40-mile radius.",
+    "commonProjects": [
+      "Full yacht management program setup for absentee boat owners",
+      "Inboard engine diagnostic and repair for cruising vessels",
+      "Outboard motor tune-up and seasonal maintenance service",
+      "Annual vessel inspection and systems check for offshore yachts",
+      "Overheating engine diagnosis and cooling system repair",
+      "Fuel system troubleshooting and injector service on marine engines",
+      "Coordinating haul-out, bottom paint, and relaunch for managed yachts"
+    ],
+    "serviceAreaLocalities": [
+      "Plantation, FL",
+      "Fort Lauderdale, FL",
+      "Miami, FL",
+      "Hollywood, FL",
+      "Pompano Beach, FL"
+    ],
+    "serviceAreaTitle": "We Come to You"
+  }
+}
